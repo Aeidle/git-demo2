@@ -149,12 +149,12 @@ Citation
 Please cite the WLASL paper if it helps your research:
 
 @inproceedings{li2020word,
-title={Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and MethodComparison},
-author={Li, Dongxu and Rodriguez, Cristian and Yu, Xin and Li, Hongdong},
-booktitle={The IEEE Winter Conference on Applications of Computer Vision},
-pages={1459--1469},
-year={2020}
-}
+        title={Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison},
+        author={Li, Dongxu and Rodriguez, Cristian and Yu, Xin and Li, Hongdong},
+        booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+        pages={1459--1469},
+        year={2020}
+     }
 
 Please consider citing our work on WLASL.
 
